@@ -1,29 +1,5 @@
-.image {
-    width: 150px;
-    height: 350px;
-}
-
-.image2 {
-    width: 150px;
-    height: 350px;
-}
-
-.image3 {
-    width: 150px;
-    height: 350px;
-}
-
-.image4 {
-    width: 150px;
-    height: 350px;
-}
-
-.image5 {
-    width: 150px;
-    height: 350px;
-}
-
-.image6 {
-    width: 150px;
-    height: 350px;
-}
+.img-fluid {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
+    }
