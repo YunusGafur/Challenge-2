@@ -3,3 +3,31 @@
     min-width: 100%;
     min-height: 100%
     }
+
+    blue {
+        background-color: #8fbaef;
+    }
+    
+    .yellow {
+        background-color: #ffed7f;
+    }
+    
+    .gray {
+        background-color: #e4e4e4;
+    }
+    
+    .red {
+        background-color: #e49e9e;
+    }
+    
+    .green {
+        background-color: #addcae;
+    }
+
+    #box2 {
+        height: 15%;
+    }
+    
+    #box3 {
+        height: 85%;
+    }
